@@ -103,6 +103,7 @@ Generating, editing, and upscaling images without buying credits first.
 - **[Playground](https://playground.com/)** — Canvas editor and generator in one, with a free daily quota and no card required. `Freemium` `Web`
 - **[Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — The long-standing local interface for Stable Diffusion, with an extension ecosystem to match. `Open Source` `Windows` `macOS` `Linux`
 - **[Upscayl](https://upscayl.org/)** — Desktop image upscaler that runs entirely offline, with no account and no upload. `Open Source` `Windows` `macOS` `Linux`
+- **[PromptImage](https://promptimage.cloud/)** — Free AI image gallery and image/video generator with a usable free tier. `Freemium` `Web`
 
 ## Video and audio
 
@@ -118,6 +119,7 @@ Editing, transcription, voice, and music where the free tier is worth having.
 - **[Riffusion](https://www.riffusion.com/)** — Music generator you can use free in the browser, with full songs and lyric input. `Freemium` `Web`
 - **[Suno](https://suno.com/)** — Generates complete songs with vocals from a text prompt. Free plan gives a daily credit allowance. `Freemium` `Web` `iOS` `Android` · [alternatives](https://tiorai.com/alternatives/suno-ai-alternatives/)
 - **[Whisper](https://github.com/openai/whisper)** — OpenAI's speech recognition model, released under a permissive licence and runnable on a laptop. `Open Source` `Windows` `macOS` `Linux` `CLI`
+- **[GrokVideo Studio](https://grokvideogenerator.dev/)** — Independent text/image-to-video using xAI Grok Imagine API (not official xAI/X), with free trial credits. `Freemium` `Web`
 
 ## Research and learning
 
@@ -159,6 +161,7 @@ Layouts, interfaces, slides, and diagrams.
 - **[Penpot](https://penpot.app/)** — Design and prototyping tool built on open web standards, free to use hosted or self-hosted. `Open Source` `Web`
 - **[Recraft](https://www.recraft.ai/)** — Generates vector illustrations and icons in a consistent style, with a daily free credit allowance. `Freemium` `Web`
 - **[Uizard](https://uizard.io/)** — Turns a sketch or a prompt into an editable interface mockup. Free plan covers two projects. `Freemium` `Web`
+- **[TeslaWraps](https://teslawraps.design/)** — Browser Tesla wrap designer; core editing and PNG export free without an account; optional AI credits. `Freemium` `Web`
 
 ## Data and analysis
 
