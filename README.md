@@ -120,6 +120,9 @@ Editing, transcription, voice, and music where the free tier is worth having.
 - **[Suno](https://suno.com/)** — Generates complete songs with vocals from a text prompt. Free plan gives a daily credit allowance. `Freemium` `Web` `iOS` `Android` · [alternatives](https://tiorai.com/alternatives/suno-ai-alternatives/)
 - **[Whisper](https://github.com/openai/whisper)** — OpenAI's speech recognition model, released under a permissive licence and runnable on a laptop. `Open Source` `Windows` `macOS` `Linux` `CLI`
 - **[GrokVideo Studio](https://grokvideogenerator.dev/)** — Independent text/image-to-video using xAI Grok Imagine API (not official xAI/X), with free trial credits. `Freemium` `Web`
+- **[Alors On Danse Video Maker](https://alorsondansevideo.com)** — Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok).
+- **[Bad Times AI](https://badtimesai.dev)** — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99).
+- **[I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com)** — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99).
 
 ## Research and learning
 
